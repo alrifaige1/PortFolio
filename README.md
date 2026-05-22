@@ -1,6 +1,5 @@
 # 🌐 Portfolio – Asma Al Rifai
 
----
 
 ## 👩‍💻 Auteur
 
@@ -13,7 +12,7 @@
 
 🏛️ Université Paris Cité
 
----
+
 
 ## 🎯 Objectif du projet
 
