@@ -30,10 +30,10 @@ Ce portfolio personnel a été réalisé dans le cadre de ma troisième année d
 
 Il présente :
 
-- 🎓 Mon parcours académique
-- 🛠️ Mes compétences techniques
-- 💡 Mes projets universitaires et personnels
-- 🌍 Mes expériences et centres d’intérêt
+- Mon parcours académique
+- Mes compétences techniques
+- Mes projets universitaires et personnels
+- Mes expériences et centres d’intérêt
 
 
 ## 🧰 Technologies utilisées
@@ -55,7 +55,7 @@ Il présente :
 
 
 
-## 🚀 Objectif technique
+## Objectif technique
 
 Ce projet m’a permis de développer mes compétences en développement front-end et en conception d’interfaces web.
 
