@@ -24,7 +24,6 @@ Ce portfolio a été conçu pour :
 - 🚀 Servir de support professionnel pour mes candidatures (stage, master, doctorat)
 - 🎨 Illustrer mon parcours et mes réalisations
 
----
 
 ## 📖 Présentation
 
@@ -37,7 +36,6 @@ Il présente :
 - 💡 Mes projets universitaires et personnels
 - 🌍 Mes expériences et centres d’intérêt
 
----
 
 ## 🧰 Technologies utilisées
 
@@ -45,7 +43,6 @@ Il présente :
 - 🎨 CSS3
 - 💻 Visual Studio Code
 
----
 
 ## 📂 Contenu du portfolio
 
@@ -57,10 +54,9 @@ Il présente :
 - 🎭 Activités
 - 📬 Contact
 
----
+
 
 ## 🚀 Objectif technique
 
 Ce projet m’a permis de développer mes compétences en développement front-end et en conception d’interfaces web.
 
----
